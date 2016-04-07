@@ -5,11 +5,11 @@ FileRenamer3
 
 # ソフトウェア詳細
 - ソフト名  
-WinIU  
+FileRenamer3  
 - 著作権者  
 DS1@d_s_1  
 - 対応環境  
-Windows Vista以上 (.Netframework4.5.1)  
+Windows Vista以上 (.NET Framework 4.5.1)  
 - 種別  
 フリーウェア  
 - ジャンル  
